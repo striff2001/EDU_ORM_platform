@@ -6,8 +6,8 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
-import ru.vasmarfas.educationplatform.entity.*;
-import ru.vasmarfas.educationplatform.repository.*;
+import ru.educationplatform.entity.*;
+import ru.educationplatform.repository.*;
 
 import java.time.LocalDate;
 import java.util.Optional;
