@@ -5,8 +5,8 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import ru.educationplatform.entity.*;
 import ru.educationplatform.repository.*;
-import ru.vasmarfas.educationplatform.entity.*;
-import ru.vasmarfas.educationplatform.repository.*;
+import ru.educationplatform.entity.*;
+import ru.educationplatform.repository.*;
 
 import java.util.List;
 
